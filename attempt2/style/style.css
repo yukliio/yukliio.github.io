@@ -1,0 +1,66 @@
+body{
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+a{
+  color: #871b63;
+}
+
+a:hover{
+  color: #b896d9;
+}
+img{
+  border-radius: 100%;
+  margin: 30px;
+}
+
+
+h1{
+  font-family: 'Vollkorn SC', serif;
+}
+
+
+.divs{
+  background-color: #edd5e5;
+  margin: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  height: 100%;
+  position: relative;
+}
+}
+.sci{
+  width: 55%;
+}
+
+.city{
+  border-width: 10px;
+  border-style: double;
+  border-color: #736735;
+  border-radius: 30%;
+  width: 700px;
+  margin-left: 60px;
+  margin-right: 20px;
+
+}
+.r{
+
+  float: right;
+  width: 150px;
+
+
+}
+.i{
+
+  float: left;
+  width: 100px;
+
+}
+
+.courses{
+margin-bottom: 0px;
+  padding: 40px;
+  background-color: blue;
+}
