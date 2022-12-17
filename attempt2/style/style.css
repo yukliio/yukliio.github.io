@@ -1,0 +1,205 @@
+/*GENERAL*/
+a{
+  color: #871b63;
+}
+
+
+a:hover{
+  color: #b896d9;
+}
+
+
+body{
+  background-color: white;
+
+}
+
+
+
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+
+
+
+
+h6{
+  text-align: center;
+}
+
+u{
+  color: #f7bae6;
+}
+
+
+u:hover{
+  color: #b5559a;
+}
+
+img{
+  border-radius: 100%;
+  margin: 30px;
+}
+
+
+nav{
+ padding: 20px;
+}
+
+
+
+/*CLASSES*/
+
+.city{
+  border-width: 10px;
+  border-style: double;
+  border-color: #736735;
+  border-radius: 30%;
+  margin-top: 50px;
+  margin-left: 110px;
+  width: 350px;
+}
+
+
+.div{
+  margin-right: ;
+}
+
+
+.fa-brands{
+  margin-bottom: 0px;
+}
+
+
+.fa-heart-circle-check{
+  padding-bottom: 13px;
+}
+
+
+.fa-headphones{
+  padding-bottom: 13px;
+
+}
+
+
+.fa-sm{
+  margin-left: 4PX;
+}
+
+
+.fa-wind{
+  margin-bottom: 13px;
+}
+
+
+.fa-solid{
+color: black;
+font-size: 50px;
+padding-bottom: 0px;
+margin-bottom: 0px;
+}
+
+
+.fa-square-root-variable{
+  color: #bacef7;
+}
+
+
+.fa-solid:hover{
+  color: #869cbf;
+}
+
+
+.h1{
+  font-family: 'Sacramento';
+  font-size: 1010px;
+}
+
+
+.i{
+  float: left;
+  width: 100px;
+}
+
+
+.nav-item{
+  color: #143652;
+}
+
+
+.r{
+  float: right;
+  width: 150px;
+}
+
+
+.review{
+  margin-bottom: 90px;
+}
+
+
+.section{
+  background-color: #e1f5fa;
+}
+
+
+.subject{
+  background-color: #1f0554;
+  padding: 40px;
+}
+
+.sub_text{
+  color: white;
+}
+
+
+.sub_text_h4{
+    color: #bacef7;
+}
+
+
+.text{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
+}
+
+
+.p{
+  margin-bottom: 60px;
+}
+
+
+/*IDS*/
+
+
+
+#apple{
+  margin-right: 15px;
+}
+
+
+#divs{
+  color: #143554;
+  padding: 90px;
+  text-align: left;
+
+}
+
+
+#divs:hover{
+  color: #19448a;
+}
+
+
+#review{
+  margin-top: 60px;
+  margin-left: 10px;
+  margin-right: 20px;
+  padding-left: 70px;
+  padding-right: 30px;
+}
